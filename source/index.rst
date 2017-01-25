@@ -96,3 +96,5 @@ Our Ecosystem
    contributing.rst
    doc_guide.rst
 
+_Old Wiki_
+http://web.archive.org/web/20150419042201/http://wiki.fusionpbx.com/index.php?title=Main_Page
